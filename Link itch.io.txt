@@ -1,0 +1,5 @@
+https://galihprmn.itch.io/astro-match
+
+Game Astro Match
+- Game bertema luar angkasa, mengharuskan Player untuk mendapatkan poin dengan cara menarik Asteroid ke dalam Planet sesuai dengan warna yang tepat,
+jika Asteroid yang ditarik berwarna berbeda dengan planet nya, maka akan ada pengurangan poin. Jika Asteroid melewati batas akhir, maka Game Over.
